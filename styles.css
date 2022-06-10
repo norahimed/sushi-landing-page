@@ -64,3 +64,35 @@ button {
 .hero button {
     border: none;
 }
+
+.info-img {
+    width: 200px;
+    height: 200px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 200px;
+    height: 300px;
+}
+
+.info-head {
+    color: #1f2937;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 52px;
+}
+
+.info-items {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.place {
+    width: 150px;
+}
