@@ -96,3 +96,20 @@ button {
 .place {
     width: 150px;
 }
+
+.quote {
+    background: #e5e7eb;
+    color: #1f2937;
+    font-style: italic;
+    font-weight:lighter;
+    font-size: 36px;
+    padding: 100px 200px;
+}
+
+.quote figcaption {
+    color: #1f2937;
+    text-align: right;
+    font-size: 18px;
+    font-weight: none;
+    font-weight: bold;
+}
