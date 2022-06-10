@@ -19,7 +19,7 @@ ul {
 }
 
 .links {
-    padding: 16px 100px;
+    padding: 16px 0px;
 }
 
 .logo {
@@ -50,7 +50,7 @@ ul {
 
 .hero-left {
     width:620px;
-    margin-right: 120px;
+    margin-right: 220px;
 }
 
 button {
