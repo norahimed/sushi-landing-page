@@ -113,3 +113,36 @@ button {
     font-weight: none;
     font-weight: bold;
 }
+
+.call-to-act {
+    background: #3882f6;
+    font-size: 18px;
+    color: #f9faf8;
+    padding: 32px 64px;
+    margin: 100px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.call {
+    font-weight: bold;
+}
+
+.call-text {
+    width:620px;
+    margin-right: 400px;
+}
+
+.call-to-act button {
+    border: 2px solid #f9faf8;
+}
+
+.footer {
+    background: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f9faf8;
+    padding: 32px;
+}
+
