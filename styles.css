@@ -31,3 +31,36 @@ ul {
 .header {
     background: #1f2937;
 }
+
+.hero {
+    display: flex;
+    padding: 100px;
+}
+
+.hero-main {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.hero-second {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero-left {
+    width:620px;
+    margin-right: 120px;
+}
+
+button {
+    background: #3882f6;
+    color: #f9faf8;
+    margin-top: 16px;
+    padding: 8px 16px;
+    border-radius: 10px;
+}
+
+.hero button {
+    border: none;
+}
